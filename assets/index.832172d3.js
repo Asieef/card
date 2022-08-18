@@ -3423,7 +3423,7 @@ const Jo = (e, t) => {
   },
   Xo = { class: "flex justify-center items-center h-screen" },
   Zo = { class: "grid grid-flow-row w-72 shadow-lg gap-6 rounded-lg" },
-  Qo = { class: "bg-[url('./assets/bg.jpg')] h-44 relative rounded-t-xl" },
+  Qo = { class: "bg-[url('../assets/bg.jpg')] h-44 relative rounded-t-xl" },
   Go = ["src", "alt"],
   el = { class: "pt-12 text-center" },
   tl = { class: "font-semibold text-2xl text-gray-600" },
